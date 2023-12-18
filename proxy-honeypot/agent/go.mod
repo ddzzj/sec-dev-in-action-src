@@ -14,6 +14,6 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/urfave/cli v1.22.4
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	gopkg.in/ini.v1 v1.62.0
 )
