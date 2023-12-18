@@ -16,6 +16,6 @@ require (
 	github.com/sirupsen/logrus v1.3.0
 	github.com/stretchr/testify v1.4.0
 	github.com/xsec-lab/go-mysql-server v0.8.12-fina
-	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 )
